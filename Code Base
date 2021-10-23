@@ -1,3 +1,5 @@
+import random
+
 def passwordgenerator():
 
    length = int(input("\nhow long would you like your password to be?\n\n"))
